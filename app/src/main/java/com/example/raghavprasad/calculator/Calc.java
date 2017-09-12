@@ -35,7 +35,7 @@ public class Calc extends AppCompatActivity {
         bMultiply = findViewById(R.id.bMultiply);
         bEquals = findViewById(R.id.bEquals);
         bDecimal = findViewById(R.id.bDecimal);
-        editText = findViewById(R.id.editText);
+        editText = findViewById(R.id.editTxt);
 
 
         b1.setOnClickListener(new View.OnClickListener() {
